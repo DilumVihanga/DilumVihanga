@@ -1,4 +1,4 @@
-[![MasterHead](https://i.ibb.co/pdcNqKk/Screenshot-2023-05-28-140134.jpg)]
+[![MasterHead](https://i.ibb.co/W3ycYwM/68747470733a2f2f692e696d6775722e636f6d2f315a76566b44632e676966.gif)]
 <h1 align="center">Hi 👋, I'm Dilum Vihanga</h1>
 <h3 align="center">A passionate web developer from Sri Lanka</h3>
 
