@@ -1,6 +1,6 @@
 ![MasterHead](https://camo.githubusercontent.com/5dc6ee33381917e41fc9c4951799268998f11a9b864399bf79a0842e4f9b194d/68747470733a2f2f692e696d6775722e636f6d2f315a76566b44632e676966)
 <h1 align="center">Hi 👋, I'm Dilum Vihanga</h1>
-<h3 align="center">A passionate web developer from Sri Lanka</h3><br>
+<h3 align="center">A Passionate Web Developer from Sri Lanka</h3><br>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 <p align="left">
 
