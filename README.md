@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Event Ticket Booking Platform Website**
 
-- 🌱 I’m currently learning **Python Flask Framework**
+- 🌱 I’m currently learning **Spring Boot**
 
 - 👨‍💻 Most of my projects are available at [https://dilumax.com/](https://dilumax.com/)
 
