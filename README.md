@@ -3,10 +3,6 @@
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 <p align="left">
 
-- 🔭 I’m currently working on **Event Ticket Booking Platform Website**
-
-- 🌱 I’m currently learning **Spring Boot**
-
 - 👨‍💻 Most of my projects are available at [https://dilumvihanga.me - currenlty under maintenance](https://dilumvihanga.me)
 
 - 📫 How to reach me **vihangadilum6@gmail.com**
