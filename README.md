@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 <p align="left">
 
-- 👨‍💻 Most of my projects are available at [https://dilumvihanga.me - currenlty under maintenance](https://dilumvihanga.me)
+- 👨‍💻 Most of my projects are available at [https://dilumvihanga.me](https://dilumvihanga.me) - currenlty under maintenance
 
 - 📫 How to reach me **vihangadilum6@gmail.com**
 
