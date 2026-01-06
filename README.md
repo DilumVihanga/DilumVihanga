@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dilum Vihanga</h1>
-<h3 align="center">A Passionate Web Developer from Sri Lanka</h3><br>
+<h3 align="center">A Passionate Full-Stack Developer from Sri Lanka</h3><br>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 <p align="left">
 
